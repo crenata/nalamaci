@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f7cb8d55.css",
-    "main.js": "/static/js/main.c56fd5b3.js",
+    "main.css": "/static/css/main.a9818e3a.css",
+    "main.js": "/static/js/main.d5e0d5fd.js",
     "static/js/875.15606831.chunk.js": "/static/js/875.15606831.chunk.js",
     "static/js/488.47e900ca.chunk.js": "/static/js/488.47e900ca.chunk.js",
     "static/js/704.1d33b919.chunk.js": "/static/js/704.1d33b919.chunk.js",
@@ -32,14 +32,14 @@
     "static/media/Merienda-Bold.ttf": "/static/media/Merienda-Bold.38d48e86c0ff1ff84e1d.ttf",
     "static/media/logo.png": "/static/media/logo.9322c9dc61993550e2ac.png",
     "index.html": "/index.html",
-    "main.f7cb8d55.css.map": "/static/css/main.f7cb8d55.css.map",
-    "main.c56fd5b3.js.map": "/static/js/main.c56fd5b3.js.map",
+    "main.a9818e3a.css.map": "/static/css/main.a9818e3a.css.map",
+    "main.d5e0d5fd.js.map": "/static/js/main.d5e0d5fd.js.map",
     "875.15606831.chunk.js.map": "/static/js/875.15606831.chunk.js.map",
     "488.47e900ca.chunk.js.map": "/static/js/488.47e900ca.chunk.js.map",
     "704.1d33b919.chunk.js.map": "/static/js/704.1d33b919.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7cb8d55.css",
-    "static/js/main.c56fd5b3.js"
+    "static/css/main.a9818e3a.css",
+    "static/js/main.d5e0d5fd.js"
   ]
 }
