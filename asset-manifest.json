@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.153df4b6.css",
-    "main.js": "/static/js/main.5d6f5d1b.js",
-    "static/js/875.15606831.chunk.js": "/static/js/875.15606831.chunk.js",
+    "main.css": "/static/css/main.3d0fc2ad.css",
+    "main.js": "/static/js/main.78f76897.js",
+    "static/js/875.76392105.chunk.js": "/static/js/875.76392105.chunk.js",
     "static/js/488.47e900ca.chunk.js": "/static/js/488.47e900ca.chunk.js",
     "static/js/704.1d33b919.chunk.js": "/static/js/704.1d33b919.chunk.js",
     "static/media/arabian-mystery-harp.wav": "/static/media/arabian-mystery-harp.7e3b4cec1ea193998233.wav",
@@ -33,14 +33,14 @@
     "static/media/Merienda-Bold.ttf": "/static/media/Merienda-Bold.38d48e86c0ff1ff84e1d.ttf",
     "static/media/logo.png": "/static/media/logo.9322c9dc61993550e2ac.png",
     "index.html": "/index.html",
-    "main.153df4b6.css.map": "/static/css/main.153df4b6.css.map",
-    "main.5d6f5d1b.js.map": "/static/js/main.5d6f5d1b.js.map",
-    "875.15606831.chunk.js.map": "/static/js/875.15606831.chunk.js.map",
+    "main.3d0fc2ad.css.map": "/static/css/main.3d0fc2ad.css.map",
+    "main.78f76897.js.map": "/static/js/main.78f76897.js.map",
+    "875.76392105.chunk.js.map": "/static/js/875.76392105.chunk.js.map",
     "488.47e900ca.chunk.js.map": "/static/js/488.47e900ca.chunk.js.map",
     "704.1d33b919.chunk.js.map": "/static/js/704.1d33b919.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.153df4b6.css",
-    "static/js/main.5d6f5d1b.js"
+    "static/css/main.3d0fc2ad.css",
+    "static/js/main.78f76897.js"
   ]
 }
